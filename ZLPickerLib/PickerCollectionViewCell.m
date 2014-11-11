@@ -41,9 +41,9 @@ static UIImageView *_cellImageView;
     return cell;
 }
 
-- (void)setCellImage:(UIImage *)cellImage{
-    _cellImage = cellImage;
-    self.cellImgView.image = cellImage;
-}
+//- (void)setCellImage:(UIImage *)cellImage{
+//    _cellImage = cellImage;
+//    self.cellImgView.image = cellImage;
+//}
 
 @end
